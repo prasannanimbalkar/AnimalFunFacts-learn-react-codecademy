@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+to start<br/>
+<br/>rm -rf node_modules package-lock.json && npm install && npm start<b/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
